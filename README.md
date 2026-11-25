@@ -11,16 +11,6 @@ I analyse data with Python and SQL to find patterns that support business decisi
 - **Excel:** Data Cleaning, Lookup Functions, PivotTables, Charts
 - **Analysis:** Data Cleaning, EDA, Statistical Analysis, Data Visualization
 
-## Featured Project
-
-**[Credit Card Fraud Detection: EDA and Classification](https://github.com/swarnabytes/fraud_detection_Python_analysis)**
-Analysis of 284,807 transactions to compare fraudulent and genuine behaviour, plus a baseline fraud classifier.
-
-## Currently
-
-- Completing the IBM Data Science Professional Certificate
-- Building SQL and dashboard projects (coming soon)
-
 ## Connect
 
 📫 swarnachoudhary10@gmail.com
